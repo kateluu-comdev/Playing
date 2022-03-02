@@ -2,6 +2,7 @@
  * An apex page controller that exposes the site login functionality
  */
  // add comment here to inject history line
+ // add comment 2 from child branch
 global with sharing class CommunitiesLoginController {
 
     global CommunitiesLoginController () {}
