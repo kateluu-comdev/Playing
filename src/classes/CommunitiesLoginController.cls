@@ -1,6 +1,7 @@
 /**
  * An apex page controller that exposes the site login functionality
  */
+ // add comment here to inject history line
 global with sharing class CommunitiesLoginController {
 
     global CommunitiesLoginController () {}
